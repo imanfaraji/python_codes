@@ -1,0 +1,4 @@
+Search for and match specific pattern in text
+#import re
+
++ raw string: interpret string literally. No escape for example.
